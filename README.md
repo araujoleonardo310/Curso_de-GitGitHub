@@ -4,9 +4,9 @@
 
  ## Objetivo
 
- . Conhecer os principais comandos
- . Compreender a trajetória e desenvolvimento com o versionamento.
- . Praticar e usar de forma adequada as ferramentas de software: Git e GitHub Desktop.
+ * Conhecer os principais comandos
+ * Compreender a trajetória e desenvolvimento com o versionamento.
+ * Praticar e usar de forma adequada as ferramentas de software: Git e GitHub Desktop.
 
  ## 🔗Referências
 
